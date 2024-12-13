@@ -70,7 +70,7 @@ Follow these steps to set up the project locally:
 ## Project Structure
 
 ```
-next-todo-app/
+simple-next-todo-app/
 ├── components/
 │   ├── TaskInput.tsx      # Component for adding tasks
 │   ├── TaskItem.tsx       # Component for individual task items
