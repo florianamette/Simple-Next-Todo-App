@@ -39,7 +39,7 @@ Follow these steps to set up the project locally:
 3. Start the development server:
 
    ```bash
-    npm start
+    npm run dev
     ```
    
 4. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -70,7 +70,7 @@ Follow these steps to set up the project locally:
 ## Project Structure
 
 ```
-next-todo-app/
+simple-next-todo-app/
 ├── components/
 │   ├── TaskInput.tsx      # Component for adding tasks
 │   ├── TaskItem.tsx       # Component for individual task items
